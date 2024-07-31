@@ -9,7 +9,7 @@ import handlerBarsContext from './variables.js';
 
 export default defineConfig({
     appType: 'mpa',
-    base: "/Proyecto_Grupo8/",
+    base: "/proyectofinalpw2/",
     build: {
         rollupOptions: {
             input: Object.fromEntries(
